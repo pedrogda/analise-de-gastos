@@ -58,21 +58,34 @@ Menor gasto:   Educação (R$ 90.00)
 - pandas
 - matplotlib
 
-## 📝 Como personalizar
+## 📝 Como Personalizar
 
 Para personalizar o script, basta seguir as instruções abaixo:
 
-1- Altere o arquivo gastos.csv com suas próprias categorias e valores.
-2- O script se adapta automaticamente a qualquer número de linhas, desde que o arquivo siga a mesma estrutura:
-Colunas: categoria, valor.
-3- Rodando o script novamente, ele recalculará as estatísticas e gerará um novo gráfico.
+1. **Altere o arquivo `gastos.csv`** com suas próprias categorias e valores.
+2. O script se adapta automaticamente a qualquer número de linhas, desde que o arquivo siga a mesma estrutura:
+   - **Colunas**: `categoria`, `valor`.
+3. **Rodando o script novamente**, ele recalculará as estatísticas e gerará um novo gráfico.
+
+---
 
 ## 🤝 Como Contribuir
 
 Se você gostaria de contribuir para o projeto, siga as etapas abaixo:
 
-1- Fork este repositório.
-2- Crie uma nova branch (git checkout -b feature/nova-funcionalidade).
-3- Faça suas alterações e commit (git commit -m 'Adiciona nova funcionalidade').
-4- Push para a branch (git push origin feature/nova-funcionalidade).
-5- Abra um Pull Request explicando as alterações feitas.
+1. **Fork** este repositório.
+2. **Crie uma nova branch**: 
+   ```bash
+   git checkout -b feature/nova-funcionalidade
+   ```
+3. **Faça suas alterações e commit**:
+   ```bash
+   git commit -m 'Adiciona nova funcionalidade'
+   ```
+4. **Push para a branch**
+  ```bash
+   git push origin feature/nova-funcionalidade
+   ```
+5. ** Abra um Pull Request explicando as alterações feitas. **
+
+  
