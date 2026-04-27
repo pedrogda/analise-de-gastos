@@ -41,14 +41,24 @@ python analise.py
 ===================================
        RESUMO DE GASTOS DO MÊS
 ===================================
-Total gasto:   R$ 1990.00
-Gasto médio:   R$ 284.29
-Gasto mínimo:  R$ 90.00
-Gasto máximo:  R$ 800.00
+Total gasto:   R$ 1790.00
+Gasto médio:   R$ 223.75
+Gasto mínimo:  R$ 65.00
+Gasto máximo:  R$ 620.00
 -----------------------------------
-Maior gasto:   Moradia (R$ 800.00)
-Menor gasto:   Educação (R$ 90.00)
+Maior gasto:   Mercado (R$ 620.00)
+Menor gasto:   Streaming (R$ 65.00)
 ===================================
+
+Gastos por categoria:
+  Internet        R$ 120.00  (6.7%)
+  Energia         R$ 210.00  (11.7%)
+  Agua            R$  85.00  (4.7%)
+  Mercado         R$ 620.00  (34.6%)
+  Academia        R$ 100.00  (5.6%)
+  Faculdade       R$ 450.00  (25.1%)
+  Streaming       R$  65.00  (3.6%)
+  Farmacia        R$ 140.00  (7.8%)
 ```
 
 
